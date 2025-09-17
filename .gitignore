@@ -1,0 +1,10 @@
+# Ignore venv & cache
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore data outputs
+data/*.zip
+outputs/*.csv
+outputs/*.png
+outputs/*.pdf
