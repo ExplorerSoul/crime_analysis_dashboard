@@ -4,7 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Ignore data outputs
-data/*.csv
+# data/*
 outputs/*.csv
 outputs/*.png
 outputs/*.pdf
